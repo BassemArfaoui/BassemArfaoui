@@ -4,7 +4,7 @@
 
 ### `< FullStack Dev & AI Agent Builder />`
 
-*Building things end-to-end : polished frontends, robust APIs, production databases,*
+*Building things end-to-end — polished frontends, robust APIs, production databases,*
 *and intelligent agents that reason and act in the real world.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://tn.linkedin.com/in/arfaoui-bassem)
@@ -190,6 +190,11 @@ I build things end-to-end : **polished frontends**, **robust APIs**, **productio
     </td>
     <td align="center" bgcolor="#dbeafe" width="100">
       <br/>
+      <a href="https://firebase.google.com"><img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" alt="Firebase"/></a>
+      <br/><b>Firebase</b><br/>&nbsp;
+    </td>
+    <td align="center" bgcolor="#dbeafe" width="100">
+      <br/>
       <a href="https://supabase.com"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="50" alt="Supabase"/></a>
       <br/><b>Supabase</b><br/>&nbsp;
     </td>
@@ -250,7 +255,6 @@ I build things end-to-end : **polished frontends**, **robust APIs**, **productio
 
 ### 🤖 Agentic AI
 
-> I design and ship **RAG pipelines**, multi-agent systems, tool-calling workflows, and LLM-powered apps for real-world use cases.
 
 <table>
   <tr>
