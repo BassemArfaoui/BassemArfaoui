@@ -4,7 +4,7 @@
 
 ### `< FullStack Dev & AI Agent Builder />`
 
-*Building things end-to-end — polished frontends, robust APIs, production databases,*
+*Building things end-to-end : polished frontends, robust APIs, production databases,*
 *and intelligent agents that reason and act in the real world.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://tn.linkedin.com/in/arfaoui-bassem)
