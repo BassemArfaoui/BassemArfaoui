@@ -7,7 +7,7 @@
 *Building things end-to-end — polished frontends, robust APIs, production databases,*
 *and intelligent agents that reason and act in the real world.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/arfaoui-bassem/?locale=fr))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arfaoui-bassem/?locale=fr)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/BassemArfaoui)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:bassem.arfaoui.engineer@gmail.com)
 [![Location](https://img.shields.io/badge/Tunis,_Tunisia-0d1117?style=flat-square&logo=googlemaps&logoColor=4285F4)](https://maps.google.com/?q=Tunis)
@@ -29,39 +29,120 @@ I build things end-to-end : **polished frontends**, **robust APIs**, **productio
 
 ### 🖥️ Frontend
 
-![React]([https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000))
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
-![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098)
-![HTML5](https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="48" height="48" alt="React"/>
+      <br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_NEXTJS&format=png&color=000000" width="48" height="48" alt="Next.js"/>
+      <br/><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_TS&format=png&color=000000" width="48" height="48" alt="TypeScript"/>
+      <br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_TAILWIND&format=png&color=000000" width="48" height="48" alt="Tailwind CSS"/>
+      <br/><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_FRAMER&format=png&color=000000" width="48" height="48" alt="Framer Motion"/>
+      <br/><sub><b>Framer Motion</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_REDUX&format=png&color=000000" width="48" height="48" alt="Redux"/>
+      <br/><sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_GRAPHQL&format=png&color=000000" width="48" height="48" alt="GraphQL"/>
+      <br/><sub><b>GraphQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_HTML&format=png&color=000000" width="48" height="48" alt="HTML/CSS"/>
+      <br/><sub><b>HTML / CSS</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=6DB33F)
-![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/Auth%2FJWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_NODE&format=png&color=000000" width="48" height="48" alt="Node.js"/>
+      <br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_PYTHON&format=png&color=000000" width="48" height="48" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_FASTAPI&format=png&color=000000" width="48" height="48" alt="FastAPI"/>
+      <br/><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_EXPRESS&format=png&color=000000" width="48" height="48" alt="Express"/>
+      <br/><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_REST&format=png&color=000000" width="48" height="48" alt="REST APIs"/>
+      <br/><sub><b>REST APIs</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_WS&format=png&color=000000" width="48" height="48" alt="WebSockets"/>
+      <br/><sub><b>WebSockets</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_JWT&format=png&color=000000" width="48" height="48" alt="Auth / JWT"/>
+      <br/><sub><b>Auth / JWT</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_MICRO&format=png&color=000000" width="48" height="48" alt="Microservices"/>
+      <br/><sub><b>Microservices</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-0d1117?style=flat-square&logo=pinecone&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_PG&format=png&color=000000" width="48" height="48" alt="PostgreSQL"/>
+      <br/><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_MONGO&format=png&color=000000" width="48" height="48" alt="MongoDB"/>
+      <br/><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_REDIS&format=png&color=000000" width="48" height="48" alt="Redis"/>
+      <br/><sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_SUPA&format=png&color=000000" width="48" height="48" alt="Supabase"/>
+      <br/><sub><b>Supabase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_PRISMA&format=png&color=000000" width="48" height="48" alt="Prisma"/>
+      <br/><sub><b>Prisma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_SQLITE&format=png&color=000000" width="48" height="48" alt="SQLite"/>
+      <br/><sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_VECTOR&format=png&color=000000" width="48" height="48" alt="Vector DBs"/>
+      <br/><sub><b>Vector DBs</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,29 +150,83 @@ I build things end-to-end : **polished frontends**, **robust APIs**, **productio
 
 > I design and ship **RAG pipelines**, multi-agent systems, tool-calling workflows, and LLM-powered apps for real-world use cases.
 
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logo=llama&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=4285F4)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=semanticweb&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=protocolbuffers&logoColor=white)
-![Tool Use](https://img.shields.io/badge/Tool_Use-0d1117?style=flat-square&logo=probot&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![Embeddings](https://img.shields.io/badge/Embeddings-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_LC&format=png&color=000000" width="48" height="48" alt="LangChain"/>
+      <br/><sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_LLAMA&format=png&color=000000" width="48" height="48" alt="LlamaIndex"/>
+      <br/><sub><b>LlamaIndex</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_CLAUDE&format=png&color=000000" width="48" height="48" alt="Claude API"/>
+      <br/><sub><b>Claude API</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_OPENAI&format=png&color=000000" width="48" height="48" alt="OpenAI"/>
+      <br/><sub><b>OpenAI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_GEMINI&format=png&color=000000" width="48" height="48" alt="Gemini"/>
+      <br/><sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_RAG&format=png&color=000000" width="48" height="48" alt="RAG"/>
+      <br/><sub><b>RAG Pipelines</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_MCP&format=png&color=000000" width="48" height="48" alt="MCP"/>
+      <br/><sub><b>MCP</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_HF&format=png&color=000000" width="48" height="48" alt="HuggingFace"/>
+      <br/><sub><b>HuggingFace</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tools & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=circleci&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_DOCKER&format=png&color=000000" width="48" height="48" alt="Docker"/>
+      <br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_GIT&format=png&color=000000" width="48" height="48" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_GHA&format=png&color=000000" width="48" height="48" alt="GitHub Actions"/>
+      <br/><sub><b>GitHub Actions</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_LINUX&format=png&color=000000" width="48" height="48" alt="Linux"/>
+      <br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_NGINX&format=png&color=000000" width="48" height="48" alt="Nginx"/>
+      <br/><sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_VERCEL&format=png&color=000000" width="48" height="48" alt="Vercel"/>
+      <br/><sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_AWS&format=png&color=000000" width="48" height="48" alt="AWS"/>
+      <br/><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=PLACEHOLDER_CICD&format=png&color=000000" width="48" height="48" alt="CI/CD"/>
+      <br/><sub><b>CI / CD</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -112,9 +247,9 @@ I build things end-to-end : **polished frontends**, **robust APIs**, **productio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arfaoui-bassem/?locale=fr)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BassemArfaoui)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:bassem.arfaoui.engineer@gmail.com)
 
 <br/>
 
