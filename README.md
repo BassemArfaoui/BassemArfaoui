@@ -18,7 +18,7 @@
 
 ## 🔹 About
 
-I build things end-to-end — **polished frontends**, **robust APIs**, **production databases**, and **intelligent agents** that reason and act. Obsessed with clean architecture and autonomous systems that actually work in the real world.
+I build things end-to-end : **polished frontends**, **robust APIs**, **production databases**, and **intelligent agents** that reason and act. Obsessed with clean architecture and autonomous systems that actually work in the real world.
 
 - 📍 Based in **Tunis, Tunisia**
 - 🤝 Open to collaboration on **fullstack, AI agent, and platform projects**
@@ -29,7 +29,7 @@ I build things end-to-end — **polished frontends**, **robust APIs**, **product
 
 ### 🖥️ Frontend
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![React]([https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000))
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
