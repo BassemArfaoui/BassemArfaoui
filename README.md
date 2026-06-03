@@ -7,9 +7,9 @@
 *Building things end-to-end — polished frontends, robust APIs, production databases,*
 *and intelligent agents that reason and act in the real world.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/arfaoui-bassem/?locale=fr))
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/BassemArfaoui)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:bassem.arfaoui.engineer@gmail.com)
 [![Location](https://img.shields.io/badge/Tunis,_Tunisia-0d1117?style=flat-square&logo=googlemaps&logoColor=4285F4)](https://maps.google.com/?q=Tunis)
 
 </div>
