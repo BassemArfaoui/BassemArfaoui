@@ -32,7 +32,7 @@ I build things end-to-end : **polished frontends**, **robust APIs**, **productio
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="48" height="48" alt="React"/>
+      <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png" width="48" height="48" alt="React"/>
       <br/><sub><b>React</b></sub>
     </td>
     <td align="center" width="100">
